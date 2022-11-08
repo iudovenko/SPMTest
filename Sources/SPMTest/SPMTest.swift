@@ -1,5 +1,5 @@
 struct SPMTest {
     func my() -> String {
-        return "my12345111"
+        return "my123451112345"
     }
 }
